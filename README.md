@@ -12,7 +12,9 @@ This is a paper reading list about DNN acceleration (also general Deep Learning)
 
 ## Accelerators
 
-## DNN compression
+## DNN pruning
+- Pruning Convolutional Neural Networks for Resource Efficient Transfer Learning
+[ [paper](https://arxiv.org/pdf/1611.06440.pdf) | 20170612002 ]
 
 
 # Others
