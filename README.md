@@ -15,6 +15,9 @@ This is a paper reading list about DNN acceleration (also general Deep Learning)
 ## DNN pruning
 - Pruning Convolutional Neural Networks for Resource Efficient Transfer Learning
 [ [paper](https://arxiv.org/pdf/1611.06440.pdf) | 20170612002 ]
+- Learning Structured Sparsity in Deep Neural Networks
+[ [paper](https://arxiv.org/pdf/1608.03665.pdf) | 20170612003 ]
+
 
 
 # Others
