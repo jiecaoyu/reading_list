@@ -9,5 +9,5 @@ This is a paper reading list about DNN acceleration (also general Deep Learning)
 ## DNN architecture
 ### - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
 
-[paper | 20170612001]
+[[paper](https://arxiv.org/pdf/1704.04861.pdf) | 20170612001]
 # Others
