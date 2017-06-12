@@ -18,7 +18,7 @@ This is a paper reading list about DNN acceleration (also general Deep Learning)
 - Learning Structured Sparsity in Deep Neural Networks
 [ [paper](https://arxiv.org/pdf/1608.03665.pdf) | 20170612003 ]
 - Dynamic Network Surgery for Efficient DNNs
-[ [paper](https://arxiv.org/pdf/1608.04493.pdf) | 20170612003 ]
+[ [paper](https://arxiv.org/pdf/1608.04493.pdf) | 20170612004 ]
 
 
 
