@@ -4,6 +4,8 @@ I am Jiecao YU, a PhD student in the University of Michigan.
 
 This is a paper reading list about DNN acceleration (also general Deep Learning).
 
+Still under construction.
+
 
 # DNN Acceleration
 ## DNN architecture
