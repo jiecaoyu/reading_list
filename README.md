@@ -15,6 +15,8 @@ Still under construction.
 [ [paper](https://arxiv.org/pdf/1610.09893.pdf) | 20170612005 ]
 
 ## Accelerators
+- Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators
+[ [paper](http://vlsiarch.eecs.harvard.edu/wp-content/uploads/2016/05/reagen_isca16.pdf) | 20170630001 ]
 
 ## DNN pruning
 - Pruning Convolutional Neural Networks for Resource Efficient Transfer Learning
