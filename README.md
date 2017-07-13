@@ -13,6 +13,8 @@ Still under construction.
 [ [paper](https://arxiv.org/pdf/1704.04861.pdf) | 20170612001 ]
 - LightRNN: Memory and Computation-Efficient Recurrent Neural Networks
 [ [paper](https://arxiv.org/pdf/1610.09893.pdf) | 20170612005 ]
+- ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+[ [paper](https://128.84.21.199/abs/1707.01083) | 20170713001 ]
 
 ## Accelerators
 - Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators
