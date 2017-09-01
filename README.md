@@ -36,6 +36,10 @@ Still under construction.
 - Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism:
 [ [paper](http://www-personal.umich.edu/~jiecaoyu/papers/jiecaoyu-isca17.pdf) | 20170901004 ]
 
-
+## Binarized neural network
+- Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1:
+[ [paper](https://arxiv.org/pdf/1602.02830.pdf) | 20170901005 ]
+- XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks:
+[ [paper](https://arxiv.org/pdf/1603.05279.pdf) | 20170901006 ]
 
 # Others
