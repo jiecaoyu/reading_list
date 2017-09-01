@@ -27,6 +27,14 @@ Still under construction.
 [ [paper](https://arxiv.org/pdf/1608.03665.pdf) | 20170612003 ]
 - Dynamic Network Surgery for Efficient DNNs
 [ [paper](https://arxiv.org/pdf/1608.04493.pdf) | 20170612004 ]
+- Pruning Filters for Efficient ConvNets:
+[ [paper](https://arxiv.org/pdf/1608.08710.pdf) | 20170901001 ]
+- Data-Driven Sparse Structure Selection for Deep Neural Networks:
+[ [paper](https://arxiv.org/pdf/1707.01213.pdf) | 20170901002 ]
+- ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression:
+[ [paper](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/ThiNet_ICCV17.html) | 20170901003 ]
+- Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism:
+[ [paper](http://www-personal.umich.edu/~jiecaoyu/papers/jiecaoyu-isca17.pdf) | 20170901004 ]
 
 
 
